@@ -1,7 +1,7 @@
 <a name="oben"></a>
 
 # Robi
- ## Lasercutter und 3D-Version
+ ## 3D-Druck- und Lasercutter-Version
 
 ![Bild](pic/01robi.png)
 
