@@ -146,7 +146,7 @@ Ist der Robi programmiert und sind die Servos in 90° Stellung, können sie in d
 ## Die Servo-Kabel in den Body führen und die Füße an die Fußoberteile kleben
 
 
-
+![Bild](pic/25robi.png)
 
 
 ## Schritt 7: Den NANO in das obere Kopfteil montieren
