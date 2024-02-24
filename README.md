@@ -208,11 +208,11 @@ Beispiel Programme:
 
 [Robi kalibirieren](blocky/robi_kalibrieren.bloc)
 
-[Robi geht vorwärts](robi_vorwaerts.bloc)
+[Robi geht vorwärts](blocky/robi_vorwaerts.bloc)
 
-[Robi tanzt I](robi_tanzt.bloc)
+[Robi tanzt I](blocky/robi_tanzt.bloc)
 
-[Robi tanzt II](robi_zufall.bloc)
+[Robi tanzt II](blocky/robi_zufall.bloc)
 
 
 ## Fertig!
