@@ -1,0 +1,130 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <toolbox>toolbox_arduino_all</toolbox>
+  <block type="base_setup_loop" id="v=,fs3M~kkT7}H7p{Ogl" x="169" y="-362">
+    <statement name="DO">
+      <block type="otto9_configuration" id="CLE@O}uR:`Uc+{_gTneY">
+        <field name="PIN_YL">9</field>
+        <field name="PIN_YR">10</field>
+        <field name="PIN_RL">11</field>
+        <field name="PIN_RR">12</field>
+        <field name="PIN_Buzzer">13</field>
+        <next>
+          <block type="controls_repeat_ext" id="k{,7E;P-^!cJVru4%(4E">
+            <value name="TIMES">
+              <shadow type="math_number" id="uyqP(];Q~[?S){PhR}zr">
+                <field name="NUM">2</field>
+              </shadow>
+            </value>
+            <statement name="DO">
+              <block type="otto_movelegs" id="7av|vB{UKRn8trE-lno[">
+                <value name="PIN_YL">
+                  <shadow type="inout_angle_maths" id="^q$;FYMw*g5FR)nOMj!%">
+                    <field name="ANGLE">0</field>
+                  </shadow>
+                </value>
+                <value name="PIN_YR">
+                  <shadow type="inout_angle_maths" id="W$18!sLx%#6:u+J_W_FY">
+                    <field name="ANGLE">0</field>
+                  </shadow>
+                </value>
+                <value name="PIN_RL">
+                  <shadow type="inout_angle_maths" id="tF0u?Q7xOQdVl!7%3%;)">
+                    <field name="ANGLE">0</field>
+                  </shadow>
+                </value>
+                <value name="PIN_RR">
+                  <shadow type="inout_angle_maths" id="_u@7g}9w~~w*.vKQI8Y.">
+                    <field name="ANGLE">0</field>
+                  </shadow>
+                </value>
+                <value name="TEMPO">
+                  <shadow type="math_number" id="6@bs8DGj!99NWikWSKs]">
+                    <field name="NUM">200</field>
+                  </shadow>
+                </value>
+                <next>
+                  <block type="base_delay" id="a$GQ.P2,vK!S!u!5C^)n">
+                    <field name="unite">s</field>
+                    <value name="DELAY_TIME">
+                      <shadow type="math_number" id="G1x[*g6Szu(79r;b{l9X">
+                        <field name="NUM">2</field>
+                      </shadow>
+                    </value>
+                    <next>
+                      <block type="otto_movelegs" id="dTDtoh(EIaL,@$UdMVVC">
+                        <value name="PIN_YL">
+                          <shadow type="inout_angle_maths" id="IdzN3M@X4~uom#7O@pLX">
+                            <field name="ANGLE">180</field>
+                          </shadow>
+                        </value>
+                        <value name="PIN_YR">
+                          <shadow type="inout_angle_maths" id="RRu.vkV!(wAQ@`UFU2ce">
+                            <field name="ANGLE">180</field>
+                          </shadow>
+                        </value>
+                        <value name="PIN_RL">
+                          <shadow type="inout_angle_maths" id="C[9YehQA^jWIw{Jg(!HI">
+                            <field name="ANGLE">180</field>
+                          </shadow>
+                        </value>
+                        <value name="PIN_RR">
+                          <shadow type="inout_angle_maths" id="A=K%/DaxWJ.:po=,~y~1">
+                            <field name="ANGLE">265</field>
+                          </shadow>
+                        </value>
+                        <value name="TEMPO">
+                          <shadow type="math_number" id=",8Gsd{N3.yE~eDFex1S]">
+                            <field name="NUM">200</field>
+                          </shadow>
+                        </value>
+                        <next>
+                          <block type="base_delay" id="jf1f`5HrzEqqOI~`!z.]">
+                            <field name="unite">s</field>
+                            <value name="DELAY_TIME">
+                              <shadow type="math_number" id="V9dSsi)?zs8`U/]jBtMH">
+                                <field name="NUM">2</field>
+                              </shadow>
+                            </value>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </statement>
+          </block>
+        </next>
+      </block>
+    </statement>
+    <statement name="LOOP">
+      <block type="otto_movelegs" id="UY_fOh$oJwZWI@hV@|wt">
+        <value name="PIN_YL">
+          <shadow type="inout_angle_maths" id="^+GF*Cd?,J59yPqdH?u}">
+            <field name="ANGLE">90</field>
+          </shadow>
+        </value>
+        <value name="PIN_YR">
+          <shadow type="inout_angle_maths" id="e81NpYMZfecN!yK)G0_A">
+            <field name="ANGLE">90</field>
+          </shadow>
+        </value>
+        <value name="PIN_RL">
+          <shadow type="inout_angle_maths" id="4yy2E#]e{K4}XQYS=30X">
+            <field name="ANGLE">90</field>
+          </shadow>
+        </value>
+        <value name="PIN_RR">
+          <shadow type="inout_angle_maths" id="%LL]C5a1)m*EPJIsNM9+">
+            <field name="ANGLE">90</field>
+          </shadow>
+        </value>
+        <value name="TEMPO">
+          <shadow type="math_number" id="_C8YHlh]Z+n5mMRyK/iG">
+            <field name="NUM">200</field>
+          </shadow>
+        </value>
+      </block>
+    </statement>
+  </block>
+</xml>
