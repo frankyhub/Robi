@@ -59,7 +59,8 @@ Downlaod [Inkscape-Vorlage](svg/Charley.svg)
 
 Der Aufbau und die Montage von Robi ist in mehrere Schritte unterteilt
 
-## Schritt 1: Überprüfe die Laserteile auf Vollständigkeit.
+## Schritt 1: 
+Überprüfe die Laserteile auf Vollständigkeit.
 Verwende die Lasercutter Vorlage, bestehend aus:
 + 1 x Kopf Oberteilteil
 + 1 x Kopf Unterteil
