@@ -91,7 +91,7 @@ Achtung: Das rechte und linke Seitenteil mit dem Gelenk zum Schluss zusammen mit
 
 ## Im Kopf Unterteil die Halterungen für die Servos kleben
 
-![Bild](pic/11robi.pjpg)
+![Bild](pic/11robi.jpg)
 
 ## Die Hülle der beiden Füße verkleben.
 Achtung: Wir benötigen zwei Füße. Die Öffnungen für die Servokabel sind jeweils innen und die Servos zeigen nach vorne!
