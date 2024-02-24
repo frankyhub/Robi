@@ -78,11 +78,13 @@ Verwende die Lasercutter Vorlage, bestehend aus:
 ![Bild](pic/07robi.png)
 
 
-## Schritt 2: Das Kopf Oberteil montieren.
+## Schritt 2: 
+Das Kopf Oberteil montieren.
 
 ![Bild](pic/08robi.png)
 
-## Schritt 3: Das Kopf Unterteil montieren.
+## Schritt 3: 
+Das Kopf Unterteil montieren.
 Achtung: Das rechte und linke Seitenteil mit dem Gelenk zum Schluss zusammen mit dem Kopf Oberteil montieren!
 
 ![Bild](pic/08arobi.png)
@@ -113,16 +115,19 @@ Achtung: Wir benötigen zwei Füße. Die Öffnungen für die Servokabel sind jew
 
 ![Bild](pic/17robi.png)
 
-## Schritt 4: Den Robi verdrahten, die Bauteile jedoch noch nicht in das Gehäuse montieren.
+## Schritt 4: 
+Den Robi verdrahten, die Bauteile jedoch noch nicht in das Gehäuse montieren.
 
 ![Bild](pic/18robi.png)
 
-## Schritt 5: Vor der Montage der Servos ist ein Funktionstest sinnvoll:
+## Schritt 5: 
+Vor der Montage der Servos ist ein Funktionstest sinnvoll:
 Den Robi mit der Arduino IDE in C++ oder in Blocksprache programmieren.
 Ist der Robi programmiert und sind die Servos in 90° Stellung, können sie in das Kopf-Unterteil und in die Füße montiert werden.
 
 
-## Schritt 6: Die beiden Servos in 90° Stellung mit den unteren Kopfteil und den Oberteil der Füße verschrauben. Die Servos sollten durch die Verschraubung fest am Kopfteil sitzen. Anschließend die 9V-Batterie mit den Kabelbinder befestigen.
+## Schritt 6: 
+Die beiden Servos in 90° Stellung mit den unteren Kopfteil und den Oberteil der Füße verschrauben. Die Servos sollten durch die Verschraubung fest am Kopfteil sitzen. Anschließend die 9V-Batterie mit den Kabelbinder befestigen.
 
 ![Bild](pic/19robi.png)
 
@@ -149,7 +154,8 @@ Ist der Robi programmiert und sind die Servos in 90° Stellung, können sie in d
 ![Bild](pic/25robi.png)
 
 
-## Schritt 7: Den NANO in das obere Kopfteil montieren
+## Schritt 7: 
+Den NANO in das obere Kopfteil montieren
 Platinenhalter auf das Shield kleben und das Shield anschließend in das innere, obere Kopfteil kleben. Daneben den Schalter montieren und verdrahten.
 Vor dem endgültigen verkleben des NANOs in das Obere Kopfteil, sollte er fertig programmiert sein.
 Optional noch zwei LEDs mit 1kOhm Vorwiderstand an 9V als Augen verwenden.
