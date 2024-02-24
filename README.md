@@ -1,7 +1,11 @@
-# Robi
-Lasercutter und 3D-Version
-
 <a name="oben"></a>
+
+# Robi
+ ## Lasercutter und 3D-Version
+
+![Bild](pic/01robi.png)
+
+
 
 ## Robi Lasercutter Montage Anleitung
 
@@ -10,7 +14,6 @@ Lasercutter und 3D-Version
 Diese Anleitung beschreibt die Montage eines Roboters. Robi kann laufen, tanzen und den Moonwalk. Jedes Bein hat zwei Gelenke, die von Servo-Motoren bewegt werden. Als Steuerung dient ein Arduino NANO, gespeist von einer 9V-Batterie.
 Die Robi-Elemente werden aus einer 3mm Sperrholzplatte gelasert, ebenso ist ein 3D-Druck Gehäuse möglich.
 
-![Bild](pic/01robi.png)
 
 
 ## Entwerfe dein eigenes Robi Design mit Inkscape
