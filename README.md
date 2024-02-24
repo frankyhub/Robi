@@ -70,14 +70,13 @@ Verwende die Lasercutter Vorlage, bestehend aus:
 + 2 x Füße
 + 2 x Schuhe
 
-
-## Lasercutter-Datei (3mm Sperrholz))
+Lasercutter-Datei (3mm Sperrholz)
 
 
 ![Bild](pic/06robi.png)
 
 
-## Füße und Schuhe (3mm Sperrholz)
+ Füße und Schuhe (3mm Sperrholz)
 
 ![Bild](pic/07robi.png)
 
@@ -95,11 +94,11 @@ Achtung: Das rechte und linke Seitenteil mit dem Gelenk zum Schluss zusammen mit
 
 
 
-## Im Kopf Unterteil die Halterungen für die Servos kleben
+Im Kopf Unterteil die Halterungen für die Servos kleben
 
 ![Bild](pic/11robi.jpg)
 
-## Die Hülle der beiden Füße verkleben.
+Die Hülle der beiden Füße verkleben.
 Achtung: Wir benötigen zwei Füße. Die Öffnungen für die Servokabel sind jeweils innen und die Servos zeigen nach vorne!
 
 ![Bild](pic/12robi.png)
@@ -108,14 +107,14 @@ Achtung: Wir benötigen zwei Füße. Die Öffnungen für die Servokabel sind jew
 
 ![Bild](pic/15robi.png)
 
-## Die beiden Oberteile der Füße deckungsgleich verkleben (noch nicht an die Füße kleben!).
+Die beiden Oberteile der Füße deckungsgleich verkleben (noch nicht an die Füße kleben!).
 
 
 ![Bild](pic/16robi.png)
 
 
 
-## Die Oberteile der Füße werden an den Servo im Kopfteil geschraubt.
+Die Oberteile der Füße werden an den Servo im Kopfteil geschraubt.
 
 ![Bild](pic/17robi.png)
 
@@ -142,17 +141,17 @@ Die beiden Servos in 90° Stellung mit den unteren Kopfteil und den Oberteil der
 
 
 
-## Die Schrittmotore in die Fußhülle montieren und das Fuß Unterteil ankleben
+Die Schrittmotore in die Fußhülle montieren und das Fuß Unterteil ankleben
 
 ![Bild](pic/22robi.png)
 
-## Die Schuhe an die Füße montieren
+Die Schuhe an die Füße montieren
 
 ![Bild](pic/23robi.png)
 
 ![Bild](pic/24robi.png)
 
-## Die Servo-Kabel in den Body führen und die Füße an die Fußoberteile kleben
+Die Servo-Kabel in den Body führen und die Füße an die Fußoberteile kleben
 
 
 ![Bild](pic/25robi.png)
@@ -216,7 +215,7 @@ Beispiel Programme:
 [Robi tanzt II](robi_zufall.bloc)
 
 
-Fertig!
+## Fertig!
 
 ---
 
