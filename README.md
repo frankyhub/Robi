@@ -54,7 +54,9 @@ Downlaod [Inkscape-Vorlage](svg/Charley.svg)
 
 ![Bild](pic/04robi.png)
 
-## Der NANO mit Shield und Stiftleisten
+## Der NANO mit [Shield](https://github.com/frankyhub/KiCad-Shield/tree/main/NANO_Bot) und Stiftleisten
+
+
 
 ![Bild](pic/05robi.png)
 
