@@ -216,7 +216,7 @@ Impulsdiagramm: Ansteuerung des Servos mit einer Impulsbreite von 2,5ms (180°):
 ![Bild](pic/34robi.png)
 
 
-Beispiel Programme:
+Blocky Beispiel Programme:
 
 
 [Robi kalibirieren](blocky/robi_kalibrieren.bloc)
