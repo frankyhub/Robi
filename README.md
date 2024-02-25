@@ -165,6 +165,10 @@ Die Servo-Kabel in den Body führen und die Füße an die Fußoberteile kleben
 
 ![Bild](pic/25robi.png)
 
+Alternativ können zu besseren Stabilität auch die 3D-Druck Teile verwendet werden.
+
+![Bild](pic/36servofschuh.png)
+
 
 ## Schritt 7: 
 Den NANO in das obere Kopfteil montieren
