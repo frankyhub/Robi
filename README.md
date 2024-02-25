@@ -120,14 +120,16 @@ Die Oberteile der Füße werden an den Servo im Kopfteil geschraubt.
 
 ![Bild](pic/17robi.png)
 
+Alternativ können zu besseren Stabilität auch die 3D-Druck Teile verwendet werden.
+
+![Bild](pic/35servofuss.png)
+
 ## Schritt 4: 
 Den Robi verdrahten, die Bauteile jedoch noch nicht in das Gehäuse montieren.
 
 ![Bild](pic/18robi.png)
 
-Alternativ können zu besseren Stabilität auch die 3D-Druch Teile verwendet werden.
 
-![Bild](pic/35servofuss.png)
 
 
 ## Schritt 5: 
