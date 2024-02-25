@@ -2,7 +2,7 @@
 color( "red", 1.0 ){
 translate([-16,-93,-3.15])
 linear_extrude(height = 3)
-import ("Schuhgelenk.svg");
+import ("SchuhgelenkRe.svg");
 }
 arm_length = 7;
 
