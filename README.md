@@ -125,6 +125,11 @@ Den Robi verdrahten, die Bauteile jedoch noch nicht in das Gehäuse montieren.
 
 ![Bild](pic/18robi.png)
 
+Alternativ können zu besseren Stabilität auch die 3D-Druch Teile verwendet werden.
+
+![Bild](pic/35servofuss.png)
+
+
 ## Schritt 5: 
 Vor der Montage der Servos ist ein Funktionstest sinnvoll:
 Den Robi mit der Arduino IDE in C++ oder in Blocksprache programmieren.
