@@ -360,7 +360,7 @@ if(Mundausschnitt == 1)
     {rotate([90,0,90])
     translate(v = [-23.5, 13, 30])
     linear_extrude(height = 10)
-    import ("Robitmund.svg");}
+    import ("Robimund.svg");}
     
     
 //******* Name ********
