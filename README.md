@@ -167,7 +167,7 @@ Die Servo-Kabel in den Body führen und die Füße an die Fußoberteile kleben
 
 Alternativ können zu besseren Stabilität auch die 3D-Druck Teile verwendet werden.
 
-![Bild](pic/36servofschuh.png)
+![Bild](pic/36servoschuh.png)
 
 
 ## Schritt 7: 
