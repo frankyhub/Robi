@@ -1,4 +1,4 @@
 ## Robi angry eyes
 
-![pic](../pic/Robieyes.JPG)
+![pic](https://github.com/frankyhub/Robi/blob/main/pic/Robieyes.JPG)
 
