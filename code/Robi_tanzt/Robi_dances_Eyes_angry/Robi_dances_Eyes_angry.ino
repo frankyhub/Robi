@@ -14,10 +14,18 @@ https://dl.espressif.com/dl/package_esp32_index.json
 http://dan.drown.org/stm32duino/package_STM32duino_index.json
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
 ************************************************************************************************* 
+Servo
     RU.attach(5);    // Servo rechts oben an pin 5
     RL.attach(6);   // Servo rechts unten an pin 6 
     LU.attach(8);   // Servo links oben an pin pin 8 
     LL.attach(9);   // Servo links unten an pin 9 
+
+ MAX72xx Display
+     pin 11  DataIn 
+     pin 13  CLK 
+     pin 10  CS 
+     VCC
+     GND
 **************************************************************************************************/
 
 #include "LedControl.h"
