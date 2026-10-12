@@ -110,7 +110,7 @@ Achtung: Das rechte und linke Seitenteil mit dem Gelenk zum Schluss zusammen mit
 
 Im Kopf Unterteil die Halterungen für die Servos kleben
 
-<img src="pic/11robi.png" width="500"> 
+<img src="pic/11robi.jpg" width="500"> 
 <br> <br>
 
 Die Hülle der beiden Füße verkleben.
