@@ -144,7 +144,7 @@ Alternativ können zu besseren Stabilität auch die 3D-Druck Teile verwendet wer
 ## Schritt 4: 
 Den Robi verdrahten, die Bauteile jedoch noch nicht in das Gehäuse montieren.
 
-<img src="pic/318robi.png" width="500"> 
+<img src="pic/31robi.png" width="500"> 
 <br> <br>
 
 ## Schritt 5: 
