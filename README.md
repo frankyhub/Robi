@@ -5,17 +5,20 @@
 |[:skull:ISSUE](https://github.com/frankyhub/Robi/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Robi/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Robi/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2027-blue)|<a href="https://github.com/frankyhub/Robi/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Robi)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Robi)|<a href="https://github.com/frankyhub/Robi/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Robi)|<a href="https://github.com/frankyhub/Robi/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Robi)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Robi)| <a href="https://github.com/frankyhub/Robi/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Robi/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/Robi/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Robi)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Robi)|<a href="https://github.com/frankyhub/Robi/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Robi)|<a href="https://github.com/frankyhub/Robi/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Robi)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2027-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Robi)| <a href="https://github.com/frankyhub/Robi/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Robi/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
+
 </div>
+
 
 
 
 # Robi
  ## 3D-Druck- und Lasercutter-Version
 
-![Bild](pic/01robi.png)
-
+<img src="pic/01robi.png" width="500"> 
+<br> <br>
 
 
 ## Robi Lasercutter Montage Anleitung
@@ -29,13 +32,13 @@ Die Robi-Elemente werden aus einer 3mm Sperrholzplatte gelasert, ebenso ist ein 
 
 ## Entwerfe dein eigenes Robi Design mit Inkscape
 
-![Bild](pic/02robi.png)
-
+<img src="pic/02robi.png" width="500"> 
+<br> <br>
 
 Downlaod [Inkscape-Vorlage](svg/Charley.svg)
 
-![Bild](pic/03robi.png)
-
+<img src="pic/03robi.png" width="500"> 
+<br> <br>
 
 ## Die Stückliste:
 
@@ -67,9 +70,8 @@ Downlaod [Inkscape-Vorlage](svg/Charley.svg)
 
 ## Der NANO mit [Shield](https://github.com/frankyhub/KiCad-Shield/tree/main/NANO_Bot) und Stiftleisten
 
-
-
-![Bild](pic/05robi.png)
+<img src="pic/05robi.png" width="500"> 
+<br> <br>
 
 ## Aufbau und Montage
 
@@ -85,63 +87,65 @@ Verwende die Lasercutter Vorlage, bestehend aus:
 
 Lasercutter-Datei (3mm Sperrholz)
 
-
-![Bild](pic/06robi.png)
-
+<img src="pic/06robi.png" width="500"> 
+<br> <br>
 
  Füße und Schuhe (3mm Sperrholz)
 
-![Bild](pic/07robi.png)
-
+<img src="pic/07robi.png" width="500"> 
+<br> <br>
 
 ## Schritt 2: 
 Das Kopf Oberteil montieren.
 
-![Bild](pic/08robi.png)
+<img src="pic/08robi.png" width="500"> 
+<br> <br>
 
 ## Schritt 3: 
 Das Kopf Unterteil montieren.
 Achtung: Das rechte und linke Seitenteil mit dem Gelenk zum Schluss zusammen mit dem Kopf Oberteil montieren!
 
-![Bild](pic/08arobi.png)
-
-
+<img src="pic/08robi.png" width="500"> 
+<br> <br>
 
 Im Kopf Unterteil die Halterungen für die Servos kleben
 
-![Bild](pic/11robi.jpg)
+<img src="pic/11robi.png" width="500"> 
+<br> <br>
 
 Die Hülle der beiden Füße verkleben.
 Achtung: Wir benötigen zwei Füße. Die Öffnungen für die Servokabel sind jeweils innen und die Servos zeigen nach vorne!
 
-![Bild](pic/12robi.png)
+<img src="pic/12robi.png" width="500"> 
+<br> <br>
 
-![Bild](pic/14robi.png)
+<img src="pic/14robi.png" width="500"> 
+<br> <br>
 
-![Bild](pic/15robi.png)
+<img src="pic/15robi.png" width="500"> 
+<br> <br>
 
 Die beiden Oberteile der Füße deckungsgleich verkleben (noch nicht an die Füße kleben!).
 
-
-![Bild](pic/16robi.png)
-
+<img src="pic/16robi.png" width="500"> 
+<br> <br>
 
 
 Die Oberteile der Füße werden an den Servo im Kopfteil geschraubt.
 
-![Bild](pic/17robi.png)
+<img src="pic/17robi.png" width="500"> 
+<br> <br>
 
 Alternativ können zu besseren Stabilität auch die 3D-Druck Teile verwendet werden.
 
-![Bild](pic/35servofuss.png)
+<img src="pic/35servofuss.png" width="500"> 
+<br> <br>
 
 ## Schritt 4: 
 Den Robi verdrahten, die Bauteile jedoch noch nicht in das Gehäuse montieren.
 
-![Bild](pic/18robi.png)
-
-
-
+<img src="pic/318robi.png" width="500"> 
+<br> <br>
 
 ## Schritt 5: 
 Vor der Montage der Servos ist ein Funktionstest sinnvoll:
@@ -152,34 +156,38 @@ Ist der Robi programmiert und sind die Servos in 90° Stellung, können sie in d
 ## Schritt 6: 
 Die beiden Servos in 90° Stellung mit den unteren Kopfteil und den Oberteil der Füße verschrauben. Die Servos sollten durch die Verschraubung fest am Kopfteil sitzen. Anschließend die 9V-Batterie mit den Kabelbinder befestigen.
 
-![Bild](pic/19robi.png)
+<img src="pic/19robi.png" width="500"> 
+<br> <br>
 
-![Bild](pic/20robi.png) 
+<img src="pic/20robi.png" width="500"> 
+<br> <br>
 
-![Bild](pic/21robi.png)
-
-
+<img src="pic/21robi.png" width="500"> 
+<br> <br>
 
 
 Die Schrittmotore in die Fußhülle montieren und das Fuß Unterteil ankleben
 
-![Bild](pic/22robi.png)
+<img src="pic/22robi.png" width="500"> 
+<br> <br>
 
 Die Schuhe an die Füße montieren
 
-![Bild](pic/23robi.png)
+<img src="pic/23robi.png" width="500"> 
+<br> <br>
 
-![Bild](pic/24robi.png)
+<img src="pic/24robi.png" width="500"> 
+<br> <br>
 
 Die Servo-Kabel in den Body führen und die Füße an die Fußoberteile kleben
 
-
-![Bild](pic/25robi.png)
+<img src="pic/25robi.png" width="500"> 
+<br> <br>
 
 Alternativ können zu besseren Stabilität auch die 3D-Druck Teile verwendet werden.
 
-![Bild](pic/36servoschuh.png)
-
+<img src="pic/36servoschuh.png" width="500"> 
+<br> <br>
 
 ## Schritt 7: 
 Den NANO in das obere Kopfteil montieren
@@ -190,15 +198,18 @@ Optional noch zwei LEDs mit 1kOhm Vorwiderstand an 9V als Augen verwenden.
 
 Einbau des NANO und der Battierie in den Robi-Kopfteil
 
-![Bild](pic/28robi.png)
+<img src="pic/28robi.png" width="500"> 
+<br> <br>
 
 Anschlüsse der LEDs
 
-![Bild](pic/29robi.png)
+<img src="pic/29robi.png" width="500"> 
+<br> <br>
 
 Anschluss des Batterieclips, des Schalters und der LEDs
 
-![Bild](pic/30robi.png)
+<img src="pic/30robi.png" width="500"> 
+<br> <br>
 
 Fertig, Glückwunsch!
 
@@ -207,25 +218,23 @@ Fertig, Glückwunsch!
 
 Anschlüsse des Servo-Motor SG90/MG90:
 
-
-![Bild](pic/31robi.png)
+<img src="pic/31robi.png" width="500"> 
+<br> <br>
 
 ## Servo-Motor Impulsdiagramme:
 
-
-
-![Bild](pic/32robi.png)
+<img src="pic/32robi.png" width="500"> 
+<br> <br>
 
 Impulsdiagramm: Ansteuerung des Servos mit einer Frequenz von 50 Hz:
 
-
-![Bild](pic/33robi.png)
+<img src="pic/33robi.png" width="500"> 
+<br> <br>
 
 Impulsdiagramm: Ansteuerung des Servos mit einer Impulsbreite von 2,5ms (180°):
 
-
-![Bild](pic/34robi.png)
-
+<img src="pic/34robi.png" width="500"> 
+<br> <br>
 
 Blocky Beispiel Programme:
 
