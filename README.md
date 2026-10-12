@@ -105,7 +105,7 @@ Das Kopf Oberteil montieren.
 Das Kopf Unterteil montieren.
 Achtung: Das rechte und linke Seitenteil mit dem Gelenk zum Schluss zusammen mit dem Kopf Oberteil montieren!
 
-<img src="pic/08robi.png" width="500"> 
+<img src="pic/08arobi.png" width="500"> 
 <br> <br>
 
 Im Kopf Unterteil die Halterungen für die Servos kleben
